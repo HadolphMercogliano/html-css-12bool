@@ -1,0 +1,28 @@
+/* GENERICS */
+body {
+    background-color: aqua;
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.brown1 {
+    background-color: #68422d;
+}
+
+.brown2 {
+    background-color: #a26745;
+}
+
+.grey {
+    background-color: #c6c6c6;
+}
+
+.pink {
+    background-color: #feadac;
+}
