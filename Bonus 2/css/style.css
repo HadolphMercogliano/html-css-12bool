@@ -11,6 +11,10 @@ body {
     background-color: #d1d1d1;
 }
 
+.white2 {
+    background-color: #b9b9b9;
+}
+
 .grey1 {
     background-color: #262628;
 }
@@ -24,7 +28,43 @@ body {
 }
 
 .grey4 {
-    background-color: #58595c;
+    background-color: #5f5f5f;
+}
+
+.grey5 {
+    background-color: #777777;
+}
+
+.grey6 {
+    background-color: #a3a3a3;
+}
+
+.yellow1 {
+    background-color: #8f7e58;
+}
+
+.yellow2 {
+    background-color: #7a6d4f;
+}
+
+.brown1 {
+    background-color: #252322;
+}
+
+.brown2 {
+    background-color: #2c2925;
+}
+
+.pink1 {
+    background-color: #d2c2a8;
+}
+
+.pink2 {
+    background-color: #bdaf98;
+}
+
+.blue1 {
+    background-color: #1c1e25;
 }
 
 /* HEADER */
